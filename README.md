@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **Summer 2023**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> <a href="https://github.com/Nathan-Vanson">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
