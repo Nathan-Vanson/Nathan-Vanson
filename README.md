@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
-<h3 align="center">Second year sThird year student at the University of Geneva in Computer Science</h3>
+<h3 align="center">Third year student at the University of Geneva in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nate&label=Profile%20views&color=0e75b6&style=flat" alt="nate" /> </p>
 
