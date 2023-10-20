@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Trackmania > Rocket League**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
 <p align="left"> <a href="https://github.com/Nathan-Vanson/Mindmap-Moodle" target="_blank">GitHub</a>
 </p>
 
