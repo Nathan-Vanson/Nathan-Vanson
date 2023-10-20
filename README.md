@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Trackmania > Rocket League**
 
 <h3 align="left">Projects:</h3>
-<p align="left"> <a href="https://github.com/Nathan-Vanson/Mindmap-Moodle" target="_blank">GitHub</a>
+<p align="left"> <a href="https://github.com/Nathan-Vanson/Mindmap-Moodle" target="_blank">Mindmap-Moodle</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
