@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Modding Games / Maths Project**
 
-- 🌱 I’m currently learning **C++, C# & Python's Libraries**
+- 🌱 I’m currently learning **C++, C#, Lua & Python's Libraries**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nathan-Vanson](https://github.com/Nathan-Vanson)
 
